@@ -1,0 +1,5 @@
+{
+  "name": "Bookkeeping",
+  "description": "A simple bookkeeping app for students to track spending, manage allowance, and gain financial insights.",
+  "requestFramePermissions": []
+}
